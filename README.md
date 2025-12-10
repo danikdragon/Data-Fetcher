@@ -12,7 +12,7 @@ Everything works with real API keys and falls back gracefully if something is mi
 - Choose source → fill parameters → get results
 - Pagination support
 - Clean card layout for each source
-- Setup verification script (`setup.php`)
+- Setup verification script (`check_setup.php`)
 
 ### Requirements
 - PHP 8.0+
